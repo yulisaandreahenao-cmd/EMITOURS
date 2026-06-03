@@ -1,47 +1,49 @@
-# Sistema de Gestión de Turismo 🚀
+# EMITOUR 🚀
 
-> Plataforma web para gestionar usuarios, tours, reservas y pagos de una agencia de turismo.
+> Plataforma web para la gestión de tours, reservas, usuarios, lugares turísticos y pagos.
 
 ## Equipo 👥
 
-| Nombre | Rol en el proyecto |
-|--------|-------------------|
-| Yulisa Andrea Henao López - helen henao| Desarrolladora |
-| yulisa helen | Base de Datos |
-| yulisa helen | Frontend |
+| Nombre                    | Rol en el proyecto |
+| ------------------------- | ------------------ |
+| Yulisa Andrea Henao López | Desarrolladora     |
+| Integrante 2              | Backend            |
+| Integrante 3              | Base de Datos      |
 
 ## Tecnologías 🛠️
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java
-- **Base de datos:** MySQL
-- **Otras:** Git y GitHub
+* **Frontend:** React + Vite
+* **Backend:** Node.js + Express
+* **Base de datos:** MySQL
+* **Otras:** Git y GitHub
 
 ## Estado actual 📌
 
 ### ✅ Tenemos funcionando
 
-- Diseño de base de datos
-- Registro de usuarios
+* Diseño de la base de datos
+* Diseño de las interfaces
+* Estructura Frontend y Backend
 
 ### 🔧 Estamos construyendo
 
-- Sistema de reservas
-- Módulo de pagos
+* Gestión de reservas
+* Gestión de pagos
+* CRUD de usuarios
 
 ### 🚧 Nos tiene bloqueados
 
-- Integración completa con la base de datos
-- Validaciones avanzadas
+* Conexión completa con la base de datos
+* Validaciones de formularios
 
 ## Lo que nos falta para completar el proyecto
 
-- Implementar pagos
-- Generar reportes
-- Pruebas finales
+* Implementar módulo de pagos
+* Generar reportes
+* Realizar pruebas finales
 
 ## Próximos pasos esta semana
 
 1. Terminar CRUD de reservas
-2. Conectar formularios con MySQL
+2. Conectar Frontend con Backend
 3. Realizar pruebas del sistema
