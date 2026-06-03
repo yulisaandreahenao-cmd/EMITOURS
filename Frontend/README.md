@@ -14,3 +14,23 @@ The React Compiler is currently not compatible with SWC. See [this issue](https:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Mi aporte al proyecto
+
+**Nombre:** Yulisa Andrea Henao Lopez
+
+**Rol:** Desarrolladora
+
+### Lo que desarrollo yo
+- Archivo info-yulisa.py
+- Landing page del proyecto
+
+### Lo que aprendi esta semana
+- Uso de Git
+- Creacion de ramas
+- Pull Request
+- GitHub
+
+### Proximos pasos
+- Continuar el desarrollo de EMITOURS
